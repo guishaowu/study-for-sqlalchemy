@@ -1,1 +1,3 @@
+orm 框架 类似 java hibernate,mybatis
+具有连接池 ，对象关系映射 ，缓存 ，延迟加载等功能
 http://docs.sqlalchemy.org/en/latest/
